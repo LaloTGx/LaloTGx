@@ -3,18 +3,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=53199c&height=120&section=header" alt="header"/> 
 
 <picture> 
- <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Helvetica&center=true&weight=300&size=20&duration=4500&pause=500&color=914adb&width=435&lines=Hello%2C+it's+LaloTGx;Developer;Freelancer" alt="Developer"/>
+ <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Helvetica&center=true&weight=100&size=20&duration=4500&pause=500&color=914adb&width=435&lines=Hello%2C+it's+LaloTGx;Developer;Freelancer" alt="Developer"/>
  <img align="right" src="https://github.com/LaloTGx/LaloTGx/blob/main/image/lofiboy.gif?raw=true" width = 500>
 </picture>
 
-<br><br><br><br><br><br>
-    
+<div style="clear: both;">    
 ### Main skils
 [![My Skills](https://skillicons.dev/icons?i=py,git,java,cs,html,css,js,androidstudio,figma,ps,unity,obsidian,arch,vim,vscode)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=dotnet,azure)](https://skillicons.dev)
-
+</div>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center"> Statistics
 <div style="display: inline_block" align="center">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LaloTGx&show_icons=true&theme=tokyonight"/> 
