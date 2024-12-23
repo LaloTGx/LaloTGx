@@ -2,15 +2,12 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=53199c&height=120&section=header" alt="header"/> 
 
-<picture> 
- <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Helvetica&center=true&weight=100&size=20&duration=4500&pause=500&color=914adb&width=435&lines=Hello%2C+it's+LaloTGx;Developer;Freelancer" alt="Developer"/>
-</picture>
- <picture> 
- <img align="right" src="https://github.com/LaloTGx/LaloTGx/blob/main/image/lofiboy.gif?raw=true" width = 500>
-</picture>
-<p>
+<picture> <img align="center" src="https://github.com/LaloTGx/LaloTGx/blob/main/image/lofiboy.gif?raw=true" width = 500></picture>
 
- 
+<br><br>
+
+<p href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&center=true&weight=500&size=25&duration=4500&pause=500&color=914adb&width=435&lines=Hello%2C+it's+LaloTGx;Developer;Freelancer" alt="Developer"/>
 </p>
 
 ### Main skils
