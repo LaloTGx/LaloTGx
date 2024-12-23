@@ -1,7 +1,9 @@
+<div  align="center">
+    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3256a8&height=120&section=header" alt="header"/> 
 
-<p href="https://git.io/typing-svg" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=5674b88&width=435&lines=Hello%2C+it's+Lalo;Developer" alt="Developer"/>
+<p href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=5674b88&width=435&lines=Hello%2C+it's+LaloTGx;Developer;Freelancer" alt="Developer"/>
 </p>
 
 ### Main skils
@@ -25,3 +27,5 @@
 </picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3256a8&height=120&section=footer" alt="footer"/>
+
+</div>
