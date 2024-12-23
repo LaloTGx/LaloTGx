@@ -2,15 +2,10 @@
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=53199c&height=120&section=header" alt="header"/> 
 
-<div>
-<p href="https://git.io/typing-svg" style="float: left; margin-right: 20px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&center=true&weight=500&size=25&duration=4500&pause=500&color=914adb&width=435&lines=Hello%2C+it's+LaloTGx;Developer;Freelancer" alt="Developer"/>
-</p>
-
 <picture> <img align="right" src="https://github.com/LaloTGx/LaloTGx/blob/main/image/lofiboy.gif?raw=true" width = 500></picture>
-</div>
+<!-- <p href="https://git.io/typing-svg"></p-->
+ <picture><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&center=true&weight=500&size=25&duration=4500&pause=500&color=914adb&width=435&lines=Hello%2C+it's+LaloTGx;Developer;Freelancer" alt="Developer"/></picture>
 
-<div style="clear: both;">
 ### Main skils
 [![My Skills](https://skillicons.dev/icons?i=py,git,java,cs,html,css,js,androidstudio,figma,ps,unity,obsidian,arch,vim,vscode)](https://skillicons.dev)
 
@@ -32,5 +27,4 @@
 </picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=53199c&height=120&section=footer" alt="footer"/>
-    </div>
 </div>
