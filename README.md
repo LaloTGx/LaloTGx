@@ -12,6 +12,7 @@
 
  
 </p>
+
 ### Main skils
 [![My Skills](https://skillicons.dev/icons?i=py,git,java,cs,html,css,js,androidstudio,figma,ps,unity,obsidian,arch,vim,vscode)](https://skillicons.dev)
 
