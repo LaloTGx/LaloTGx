@@ -9,15 +9,14 @@
 <p href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&center=true&weight=500&size=25&duration=4500&pause=500&color=914adb&width=435&lines=Hello%2C+it's+LaloTGx;Developer;Freelancer" alt="Developer"/>
 </p>
-
-<div style="display: inline_block" align="center">
     
 ### Main skils
 [![My Skills](https://skillicons.dev/icons?i=py,git,java,cs,html,css,js,androidstudio,figma,ps,unity,obsidian,arch,vim,vscode)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=dotnet,azure)](https://skillicons.dev)
-</div
+
+<br><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center"> Statistics
 <div style="display: inline_block" align="center">
