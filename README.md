@@ -4,8 +4,9 @@
 
 <picture> <img align="right" src="https://github.com/LaloTGx/LaloTGx/blob/main/image/lofiboy.gif?raw=true" width = 500></picture>
 <!-- <p href="https://git.io/typing-svg"></p-->
- <picture><img align="left" src="https://readme-typing-svg.herokuapp.com?font=Helvetica&center=true&weight=500&size=35&duration=4500&pause=500&color=914adb&width=435&lines=Hello%2C+it's+LaloTGx;Developer;Freelancer" alt="Developer"/></picture>
+ <picture><img align="left" src="https://readme-typing-svg.herokuapp.com?font=Helvetica&center=true&weight=300&size=28&duration=4500&pause=500&color=914adb&width=435&lines=Hello%2C+it's+LaloTGx;Developer;Freelancer" alt="Developer"/></picture>
 
+<br><br>
 ### Main skils
 [![My Skills](https://skillicons.dev/icons?i=py,git,java,cs,html,css,js,androidstudio,figma,ps,unity,obsidian,arch,vim,vscode)](https://skillicons.dev)
 
