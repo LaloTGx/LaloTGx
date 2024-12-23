@@ -1,16 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3256a8&height=120&section=header" alt="header"/> 
 
-<a href="https://git.io/typing-svg" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=3256a8&width=435&lines=Hello%2C+it's+Lalo;Developer" alt="Developer"/>
-</a>
+<p href="https://git.io/typing-svg" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=5674b88&width=435&lines=Hello%2C+it's+Lalo;Developer" alt="Developer"/>
+</p>
 
 ### Main skils
-[![My Skills](https://skillicons.dev/icons?i=py,git,java,cs,dotnet,html,css,androidstudio,figma,ps,unity,obsidian,arch,vim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,git,java,cs,html,css,js,androidstudio,figma,ps,unity,obsidian,arch,vim,vscode)](https://skillicons.dev)
 
-<!--
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=azure,rust)](https://skillicons.dev)
--->
+[![Learning](https://skillicons.dev/icons?i=dotnet,azure)](https://skillicons.dev)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center"> Statistics:
 <div style="display: inline_block" align="center">
