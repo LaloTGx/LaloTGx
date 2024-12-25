@@ -7,11 +7,11 @@
 <br><br>
 
 <p href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&center=true&weight=500&size=25&duration=4500&pause=500&color=914adb&width=435&lines=Hello%2C+it's+LaloTGx;Developer;Freelancer" alt="Developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&center=true&weight=500&size=25&duration=4500&pause=500&color=914adb&width=435&lines=Hello%2C+it's+LaloTGx;FrontEnd+Dev;Game+Dev;Mobile+Dev;Freelancer" alt="Developer"/>
 </p>
     
 ### Main skils
-[![My Skills](https://skillicons.dev/icons?i=py,git,java,cs,html,css,js,androidstudio,figma,ps,unity,obsidian,arch,vim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,js,html,css,electron,nodejs,matlab,octave,latex,git,unity,androidstudio,vim,vscode,arch,figma,ps,obsidian,notion)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=dotnet,azure)](https://skillicons.dev)
