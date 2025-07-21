@@ -11,10 +11,10 @@
 </p>
     
 ### Main skils
-[![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,cs,html,css,matlab,octave,latex,git,unity,androidstudio,vscode,arch,figma,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,cs,html,css,matlab,octave,latex,git,unity,androidstudio,vscode,arch,figma,obsidian)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=dotnet,js)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=Java)](https://skillicons.dev)
 
 <br><br>
 
