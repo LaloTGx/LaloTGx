@@ -11,7 +11,7 @@
 </p>
     
 ### Main skils
-[![My Skills](https://skillicons.dev/icons?i=kotlin,cs,html,css,matlab,octave,latex,git,unity,androidstudio,vscode,arch,figma,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,cs,html,css,matlab,octave,latex,git,unity,androidstudio,vscode,neovim,arch,figma,obsidian)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
