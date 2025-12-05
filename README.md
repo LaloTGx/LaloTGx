@@ -18,12 +18,6 @@
 
 <br><br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align="center"> Statistics
-<div style="display: inline_block" align="center">
- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LaloTGx&show_icons=true&theme=tokyonight"/> 
- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaloTGx&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 <picture>
  <img
     alt="github contribution grid snake animation"
