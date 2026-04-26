@@ -27,7 +27,7 @@
       <br><br>
       <h3> 📖 Studying </h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java" />
+        <img src="https://skillicons.dev/icons?i=java,rust,c" />
       </a>
       </div>
     </td>
